@@ -52,7 +52,7 @@ Testing is primarily manual (executed in Postman), with the Collection Runner us
 Only one real environment exists (the public sandbox), so there's no Dev/QA/Prod separation for this project.
 
 ## 6. Roles & Responsibilities
-Solo project — Vinay owns test planning, design, execution, defect management, and reporting. In a real team, requirement authoring would normally sit with a BA/PO and defect triage would involve a dev lead.
+Solo project — Vinay (me) owns test planning, design, execution, defect management, and reporting.
 
 ## 7. Entry Criteria (before execution starts)
 - User stories reviewed
