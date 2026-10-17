@@ -3,7 +3,7 @@
 **Project:** Restful-Booker API Testing
 **Prepared by:** Vinay Chaudhari — QA Engineer (API Testing)
 **System Under Test:** `https://restful-booker.herokuapp.com`
-**Reference:** Product Backlog — `docs/01-requirements/user-stories.md`
+**Reference:** Product Backlog — `docs/requirements/user-stories.md`
 
 ## 1. Objective
 Validate the functional correctness, data validation, and authentication behavior of the Restful-Booker Booking API across 2 Agile sprints, covering requirements, design, execution, defects, regression, and closure.
